@@ -1,0 +1,6 @@
+{
+    "token": "token discord",
+    "github_token": "token github",
+    "guild_id": 123456789012345678,  
+    "log_channel_id": 123456789012345678 
+  }
